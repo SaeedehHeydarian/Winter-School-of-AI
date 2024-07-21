@@ -8,5 +8,7 @@
   #### اگر شما هم برای اولین بار میخواهی با این مباحث آشنا شی و یه دید اولیه خوبی داشته باشی احتمالا این آموزش ها خیلی بهت کمک کنه و بگی ای خدا حفظت کنه
   #### اگر دوره رو دیدی خوشحال میشم برام کامنت بزاری بگو مثلا ایول فهمیدم داستان از چه قراره یا بیا بگو چی چی میگویی متوجه نمیشم
  #### اگرم خواستی یه قسمت رو بیشتر توضیح بدم بهت بیا بهم ایمیل بزن ایمیل هم مثه تلگرامه برام زود جواب میدم heydariansaeede0@gmail.com
- ## Machine learning [https://drive.google.com/file/d/1i8dodcAIb4WavB5MlJPSILfCKNLkR_6M/view?usp=sharing]
-
+## [Machine learning](https://drive.google.com/file/d/1i8dodcAIb4WavB5MlJPSILfCKNLkR_6M/view?usp=sharing)
+## [Data Mining](https://drive.google.com/file/d/1i8dodcAIb4WavB5MlJPSILfCKNLkR_6M/view?usp=sharing)
+## [Detection Heart Disease](https://drive.google.com/file/d/184GpyJ6ZaXkF3JeTmD3k062XGOpoGKA1/view?usp=sharing)
+## [Python](https://drive.google.com/file/d/1Hf4IIi1iwmM0UNoN1BN7691-3REPx6Dl/view?usp=sharing)
